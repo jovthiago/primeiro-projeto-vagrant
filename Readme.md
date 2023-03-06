@@ -2,7 +2,7 @@
 
 Este projeto apresenta um exemplo simples de criação de máquina virtual pelo Vagrant.
 
-O SO utilizado neste exemplo é o Ubuntu na versão 22.04 (Jammy LTS).
+O SO utilizado neste exemplo é o Ubuntu na versão 20.04 (focal64 LTS).
 
 ## Como utilizar este projeto
 
